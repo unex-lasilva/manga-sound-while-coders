@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/manga-sound-player/manga-sound-player.iml" filepath="$PROJECT_DIR$/manga-sound-player/manga-sound-player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/manga-sound-while-coders.iml" filepath="$PROJECT_DIR$/.idea/manga-sound-while-coders.iml" />
+    </modules>
+  </component>
+</project>
